@@ -20,3 +20,8 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
 <div>
   <span>Developer @WebbyInternet.<span>
 </div>
+    
+<div>
+  <a href=”https://www.linkedin.com/in/felipesasaki/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+</div>
+   
