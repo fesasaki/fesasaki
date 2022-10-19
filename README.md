@@ -14,5 +14,9 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
 </div>
 
 <div>
-  <h1>Felipe Sasaki</h1>
+  <h2>Felipe Sasaki</h2>
+</div>
+
+<div>
+  <span>Developer @WebbyInternet.<span>
 </div>
