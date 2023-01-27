@@ -13,9 +13,8 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
     <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </div>
   
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesasaki&layout=compact&hide=pascal&theme=vue-dark" />
-</a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesasaki&theme=tokyonight)
+
 
 <div>
   <h2>Felipe Sasaki</h2>
