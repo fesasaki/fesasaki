@@ -15,11 +15,5 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fesasaki&layout=compact)
 
-  <div>
-    <h2>Felipe Sasaki</h2>
-  </div>
-
-  <div>
-    <span>Developer @WebbyInternet.<span>
-  </div>
+  
    
