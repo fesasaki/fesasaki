@@ -13,8 +13,7 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
     <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesasaki&theme=tokyonight)
-
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fesasaki&layout=compact)
 
   <div>
     <h2>Felipe Sasaki</h2>
