@@ -12,6 +12,12 @@ Olá! Me chamo Felipe Sasaki, estudo Desenvolvimento Front-End.
     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" alt="type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg                                                                                                                                              
   </div>
+                                                               
+  <div>
+    <span>Olá</span>
+</div>
+                                                               
+ 
   
 
   
