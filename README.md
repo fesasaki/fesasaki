@@ -2,7 +2,7 @@
 
 I'm Felipe Sasaki,  I'm a Front-end Developer at Webby Internet, and I've been working as a developer since 2022. 
 
-Passionate about education and tech. I believe this combination can improve people's lives and change the world.
+Passionate about education and tech. I believe this combination can improve people's lives and change the world. Let's code!
 
 [![Linkedin: felipesasaki](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesasaki/)](https://www.linkedin.com/in/felipesasaki/)
 [![Twitch: applepiedota](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/applepiedota)](https://www.twitch.tv/applepiedota)
