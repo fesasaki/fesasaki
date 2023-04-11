@@ -1,6 +1,6 @@
 ### Konnichiwa!
 
-I'm Felipe Sasaki,  I'm a Front-end Developer at Webby Internet, and I've been working as a developer since 2022. 
+I'm Felipe Sasaki,  I'm a Front end Developer at Webby Internet, and I've been working as a developer since 2022. 
 
 Passionate about education and tech. I believe this combination can improve people's lives and change the world. Let's code!
 
