@@ -1,4 +1,4 @@
-### Konnichiwa!
+### Hi!
 
 I'm Felipe,  I'm a Front end Developer at Webby Internet, and I've been working as a developer since 2022. 
 
