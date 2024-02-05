@@ -21,3 +21,4 @@ Passionate about education and tech. I believe this combination can improve peop
 ![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=php&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
