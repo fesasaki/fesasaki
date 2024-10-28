@@ -18,7 +18,9 @@ Passionate about education and tech. I believe this combination can improve peop
 </table>
 <div style="display: inline_block; gap: 20px">
   
-  
+  <div style="padding: 20px;">
+      <img align="center" alt="Fe-JS" height="30" width="40" margin src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
   <img align="center" alt="Fe-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
