@@ -25,11 +25,11 @@ These are some of the technologies and tools that I work with:
   Backend:
   ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-  ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+  ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
+  ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=laravel)
   
 <div>
   <span>Backend: </span>
-  <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Fe-nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
