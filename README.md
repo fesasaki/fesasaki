@@ -16,18 +16,21 @@ These are some of the technologies and tools that I work with:
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-gray?style=flat-square&logo=tailwindcss)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
   ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs)
 
+  Backend:
+  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
+  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
+  
 <div>
   <span>Backend: </span>
   <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Fe-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Fe-nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Fe-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
 
