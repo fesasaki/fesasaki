@@ -24,8 +24,8 @@ These are some of the technologies and tools that I work with:
 
   Backend:
   ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
+  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+  ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
   
 <div>
   <span>Backend: </span>
