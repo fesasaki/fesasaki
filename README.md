@@ -23,4 +23,3 @@ Passionate about education and tech. I believe this combination can improve peop
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
