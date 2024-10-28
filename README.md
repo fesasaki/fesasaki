@@ -26,13 +26,11 @@ These are some of the technologies and tools that I work with:
   ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
   ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-  ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=laravel)
-  
-<div>
-  <span>Backend: </span>
-  <img align="center" alt="Fe-nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+
+  Databases:
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
 <div>
   <span>Database: </span>
