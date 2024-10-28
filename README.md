@@ -18,7 +18,7 @@ These are some of the technologies and tools that I work with:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-  ![React](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=react)
+  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
   <img align="center" alt="Fe-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fe-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Fe-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
