@@ -7,7 +7,7 @@ Passionate about education and tech. I believe this combination can improve peop
 [![Linkedin: felipesasaki](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesasaki/)](https://www.linkedin.com/in/felipesasaki/)
 
 
-# Technologies
+### Technologies
 
 <div style="display: inline_block; gap: 20px">
   <img align="center" alt="Fe-JS" height="30" width="40" margin src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
