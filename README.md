@@ -31,12 +31,10 @@ These are some of the technologies and tools that I work with:
 
   Databases:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
-  ![PostgreSQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
 
-<div>
-  <span>Database: </span>
-  <img align="center" alt="Fe-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+  Tools:
+  ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 
 <div>
   <span>Tools: </span>
