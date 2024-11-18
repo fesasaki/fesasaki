@@ -38,21 +38,10 @@ These are some of the technologies and tools that I work with:
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-white?style=flat-square&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-Docker-F7F7F7?style=flat-square&logo=docker)
+  ![Figma](https://img.shields.io/badge/-Figma-F7F7F7?style=flat-square&logo=figma)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-F7F7F7?style=flat-square&logo=photoshop)
 
-<div>
-  <span>Tools: </span>
-  <img align="center" alt="Fe-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Fe-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Fe-gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Fe-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Fe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Fe-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-</div>
 
-<div>
-  <span>IDEs: </span>
-  
-</div>
 
 
 
