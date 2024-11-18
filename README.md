@@ -31,6 +31,7 @@ These are some of the technologies and tools that I work with:
 
   Databases:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
 <div>
   <span>Database: </span>
