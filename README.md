@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
   Databases:
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 
 <div>
   <span>Database: </span>
