@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with:
 
   Tools:
   ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-white?style=flat-square&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-Docker-F7F7F7?style=flat-square&logo=docker)
   ![Figma](https://img.shields.io/badge/-Figma-F7F7F7?style=flat-square&logo=figma)
