@@ -11,7 +11,7 @@ Passionate about education and tech. I believe this combination can improve peop
 These are some of the technologies and tools that I work with:
 
   Frontend:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-595959?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with:
 
   Tools:
   ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-595959?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-white?style=flat-square&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-Docker-F7F7F7?style=flat-square&logo=docker)
   ![Figma](https://img.shields.io/badge/-Figma-F7F7F7?style=flat-square&logo=figma)
