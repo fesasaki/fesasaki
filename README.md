@@ -39,7 +39,7 @@ These are some of the technologies and tools that I work with:
   ![GitLab](https://img.shields.io/badge/-GitLab-white?style=flat-square&logo=gitlab)
   ![Docker](https://img.shields.io/badge/-Docker-F7F7F7?style=flat-square&logo=docker)
   ![Figma](https://img.shields.io/badge/-Figma-F7F7F7?style=flat-square&logo=figma)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-F7F7F7?style=flat-square&logo=photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-F7F7F7?style=flat-square&logo=adobephotoshop)
 
 
 
