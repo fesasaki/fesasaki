@@ -1,11 +1,11 @@
-### Hi!
+### Konnichiwa!
 
-I'm Felipe,  I'm a Front end Developer at Webby Internet, and I've been working as a developer since 2022. 
+I'm Felipe,  I'm Software Engineer at IEBT Innovation, and i've been working with software development since 2022. 
+Currently focusing on frontends and mobile stacks. 
 
 Passionate about education and tech. I believe this combination can improve people's lives and change the world. Let's code!
 
 [![Linkedin: felipesasaki](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesasaki/)](https://www.linkedin.com/in/felipesasaki/)
-
 
 ### Technologies
 These are some of the technologies and tools that I work with:
