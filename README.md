@@ -1,4 +1,4 @@
-### Konnichiwa!
+### Hi there!
 
 I'm Felipe,  I'm Software Engineer at IEBT Innovation, and i've been working with software development since 2020. 
 Currently focusing on frontends and mobile stacks. 
