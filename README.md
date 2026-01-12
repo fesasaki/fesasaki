@@ -11,16 +11,16 @@ Passionate about education and tech. I believe this combination can improve peop
 These are some of the technologies and tools that I work with:
 
   Frontend:
+  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs)
+  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-595959?style=flat-square&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-gray?style=flat-square&logo=tailwindcss)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs)
 
   Backend:
   ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
